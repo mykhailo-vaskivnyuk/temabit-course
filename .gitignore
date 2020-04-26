@@ -1,0 +1,6 @@
+lection*
+# **/lection*/
+node_modules
+.vscode
+dist
+_del_
